@@ -1,0 +1,10 @@
+C:\Users\Berkay\documents\visual studio 2017\Projects\OkeyDemo\OkeyDemo\bin\Debug\OkeyDemo.exe.config
+C:\Users\Berkay\documents\visual studio 2017\Projects\OkeyDemo\OkeyDemo\bin\Debug\OkeyDemo.exe
+C:\Users\Berkay\documents\visual studio 2017\Projects\OkeyDemo\OkeyDemo\bin\Debug\OkeyDemo.pdb
+C:\Users\Berkay\documents\visual studio 2017\Projects\OkeyDemo\OkeyDemo\obj\Debug\OkeyDemo.OkeyDemo.resources
+C:\Users\Berkay\documents\visual studio 2017\Projects\OkeyDemo\OkeyDemo\obj\Debug\OkeyDemo.Properties.Resources.resources
+C:\Users\Berkay\documents\visual studio 2017\Projects\OkeyDemo\OkeyDemo\obj\Debug\OkeyDemo.csproj.GenerateResource.Cache
+C:\Users\Berkay\documents\visual studio 2017\Projects\OkeyDemo\OkeyDemo\obj\Debug\OkeyDemo.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\documents\visual studio 2017\Projects\OkeyDemo\OkeyDemo\obj\Debug\OkeyDemo.exe
+C:\Users\Berkay\documents\visual studio 2017\Projects\OkeyDemo\OkeyDemo\obj\Debug\OkeyDemo.pdb
+C:\Users\Berkay\documents\visual studio 2017\Projects\OkeyDemo\OkeyDemo\obj\Debug\OkeyDemo.csprojResolveAssemblyReference.cache
